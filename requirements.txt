@@ -1,0 +1,15 @@
+fitbit==0.2.4
+selenium==3.0.1
+click==6.6
+cherrypy>=3.7,<3.9
+ipython==5.1.0
+Flask==0.11.1
+PyYAML==3.12
+PyVirtualDisplay==0.2.1
+rethinkdb==2.3.0.post6
+pytz==2016.7
+beeprint==2.4.5
+plotly==1.12.9
+python-bidi==0.4.0
+raven==5.32.0
+xhtml2pdf==0.2b1

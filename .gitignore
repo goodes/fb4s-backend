@@ -1,0 +1,6 @@
+*.pyc
+logs
+update
+gather_keys_oauth2.py
+*.swp
+*.yml
